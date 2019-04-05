@@ -18,3 +18,4 @@ print(f'lista completa {lista}')
 print(f'lista par {par}')
 print(f'lista impar {impar}')
 
+    
